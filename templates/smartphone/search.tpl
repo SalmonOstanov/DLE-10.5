@@ -1,0 +1,1 @@
+[searchmsg]<div class="berrors">{searchmsg}</div>[/searchmsg]
