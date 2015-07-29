@@ -1,2 +1,3 @@
-# bot
-For Salmon Ostanov
+DLE 10.5 NULLED
+UTF-8
+#DLE
